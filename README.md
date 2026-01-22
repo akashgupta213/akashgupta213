@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on MERN stack projects & REST APIs<br><br>👯 Open to collaborating on full-stack MERN applications<br><br>🤝 Looking for help with scalable backend architecture, system design & deployment<br><br>🌱 Currently learning Go (Golang), Spring Boot, Apache Spark (ETL) & advanced backend development <br><br>💬 Ask me about MERN, REST APIs, JWT Authentication, Razorpay integration, React UI<br><br>⚡ Fun fact Built an AI desktop voice assistant + a full-stack e-commerce web app
+🔭 Currently working on MERN stack projects & REST APIs<br><br>👯 Open to collaborating on full-stack MERN applications<br><br>🤝 Looking for help with scalable backend architecture, system design & deployment<br><br>🌱 Currently learning Go (Golang), Spring Boot, Apache Spark (ETL) & advanced backend development <br><br>💬 Ask me about MERN, REST APIs, JWT Authentication, Razorpay integration, React UI<br><br>⚡ Fun fact Built an AI desktop voice assistant
 
 
 ## 🌐 Socials:
